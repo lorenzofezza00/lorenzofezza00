@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on Reliability of AI systems, in particular in Fault Detection in Image Segmentation networks ([thesis](https://webthesis.biblio.polito.it/view/creators/Fezza=3ALorenzo=3A=3A.html))
 - 💞️ I’m looking to collaborate on VR/AR/XR
 - 📫 How to reach me: lorenzo.fezza00@gmail.com
-- 😄 Pronouns: he/him they/them
+- 😄 Pronouns: ```he/him``` ```they/them```
 - ⚡ Fun fact: 😵‍💫🤪
 
 <!---
